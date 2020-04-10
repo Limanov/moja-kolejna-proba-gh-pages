@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/moja-kolejna-proba-gh-pages/static/css/main.5f361e03.chunk.css",
+    "main.js": "/moja-kolejna-proba-gh-pages/static/js/main.d915060e.chunk.js",
+    "main.js.map": "/moja-kolejna-proba-gh-pages/static/js/main.d915060e.chunk.js.map",
+    "runtime-main.js": "/moja-kolejna-proba-gh-pages/static/js/runtime-main.7e1793d0.js",
+    "runtime-main.js.map": "/moja-kolejna-proba-gh-pages/static/js/runtime-main.7e1793d0.js.map",
+    "static/js/2.233d56bb.chunk.js": "/moja-kolejna-proba-gh-pages/static/js/2.233d56bb.chunk.js",
+    "static/js/2.233d56bb.chunk.js.map": "/moja-kolejna-proba-gh-pages/static/js/2.233d56bb.chunk.js.map",
+    "index.html": "/moja-kolejna-proba-gh-pages/index.html",
+    "precache-manifest.4656ec560ad69f62e71cec69f7528b31.js": "/moja-kolejna-proba-gh-pages/precache-manifest.4656ec560ad69f62e71cec69f7528b31.js",
+    "service-worker.js": "/moja-kolejna-proba-gh-pages/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/moja-kolejna-proba-gh-pages/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.233d56bb.chunk.js.LICENSE.txt": "/moja-kolejna-proba-gh-pages/static/js/2.233d56bb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/moja-kolejna-proba-gh-pages/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e1793d0.js",
+    "static/js/2.233d56bb.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d915060e.chunk.js"
+  ]
+}
